@@ -1,4 +1,4 @@
-<h1>3-D Printed Small Racecar</h1>
+<h1>3-D Printed Racecar</h1>
 
  ### [YouTube Demonstration of Racecar](https://youtube.com/shorts/IXQgFfLBiv8)
 
