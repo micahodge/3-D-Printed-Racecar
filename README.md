@@ -12,6 +12,7 @@ While I did not do all of the 3-D modeling, I did most of the 3-D printing. At t
 
 - <b>SolidWorks</b> 
 - <b>Prusa Slicer</b>
+- <b>QIDISlicer</b>
 - <b>Small DC Motor</b>
 - <b>2-pack AA Battery Pack</b>
 - <b>PLA</b>
